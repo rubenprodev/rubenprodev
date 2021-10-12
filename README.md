@@ -9,7 +9,7 @@
 
 - 🐈 &nbsp; I'm a Cats lover. I'd like to see how they conquer the world
 
-- 📖 &nbsp; Next tech to learn: Typescript, GraphQL, Apollo, Firebase
+- 📚 &nbsp; Next tech to learn: Typescript, GraphQL, Apollo, Firebase
 
 <h3>🛠 Current Tech Stack</h3>
 
