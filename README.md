@@ -40,7 +40,17 @@
 <!--
 <hr>
 
-### 🤝🏻 Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="25px">
+<details>
+<summary>⬅️ Don't click in here ⚠️</summary>
+<br>
+&nbsp;&nbsp;&nbsp; 😠 I warned you already...
+<br>
+&nbsp;&nbsp;&nbsp; 🐛 Now you've found a bug! Who's gonna fix it now?
+<br>
+&nbsp;&nbsp;&nbsp; 😆 "If something works, don't touch it"
+</details>
+
+### 🤝🏻 Connect with me
 
   <a href="https://twitter.com/rubenprodev">
     <img align="left" alt="Rubén | Twitter" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
