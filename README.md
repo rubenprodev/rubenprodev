@@ -53,10 +53,7 @@
 
 ### 🤝🏻 Connect with me
 
-  <a href="https://twitter.com/rubenprodev">
-    <img align="left" alt="Rubén | Twitter" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/rubenprodev/">
-    <img align="left" alt="Rubén | Instagram" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35px"/>](https://twitter.com/rubenprodev)  &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35px"/>](https://www.instagram.com/rubenprodev/)  &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px"/>](https://www.linkedin.com/in/rubenpr/)
 -->
