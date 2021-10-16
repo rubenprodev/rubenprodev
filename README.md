@@ -49,10 +49,7 @@
 
 ### 🤝🏻 Connect with me
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35px"/>](https://twitter.com/rubenprodev)  &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35px"/>](https://www.instagram.com/rubenprodev/)  &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px"/>](https://www.linkedin.com/in/rubenpr/)
-[![Twitter](icons/twitter.png)](https://twitter.com/rubenprodev)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/rubenprodev/)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/rubenpr/)
+[<img src="icons/twitter.svg" width="35px"/>](https://twitter.com/rubenprodev)  &nbsp;
+[<img src="icons/instagram.svg" width="35px"/>](https://www.instagram.com/rubenprodev/)  &nbsp;
+[<img src="icons/linkedin.svg" width="35px"/>](https://www.linkedin.com/in/rubenpr/)
 -->
