@@ -35,6 +35,12 @@
 - ⚙️ &nbsp; Symfony | Webpack | Gitlab | Jira | Confluence | Jenkins
 
 <!--
+### 🤝🏻 Connect with me
+
+[<img src="icons/twitter.svg" width="35px"/>](https://twitter.com/rubenprodev)  &nbsp;
+[<img src="icons/instagram.svg" width="35px"/>](https://www.instagram.com/rubenprodev/)  &nbsp;
+[<img src="icons/linkedin.svg" width="35px"/>](https://www.linkedin.com/in/rubenpr/)
+
 <hr>
 
 <details>
@@ -46,10 +52,4 @@
 <br>
 &nbsp;&nbsp;&nbsp; 😆 "If something works, don't touch it"
 </details>
-
-### 🤝🏻 Connect with me
-
-[<img src="icons/twitter.svg" width="35px"/>](https://twitter.com/rubenprodev)  &nbsp;
-[<img src="icons/instagram.svg" width="35px"/>](https://www.instagram.com/rubenprodev/)  &nbsp;
-[<img src="icons/linkedin.svg" width="35px"/>](https://www.linkedin.com/in/rubenpr/)
 -->
