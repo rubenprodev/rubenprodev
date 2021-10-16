@@ -16,7 +16,7 @@
 
 - 🍺 &nbsp; Beer and 🍫 chocolate are two of my favourite flavours. I guess I should have born in Belgium 🤔  
 
-- 📚 &nbsp; Next tech to learn: Typescript, GraphQL, Apollo, Firebase
+- 📚 &nbsp; Next tech to learn: Typescript, NextJS, GraphQL, Apollo, Firebase, Github Actions
 
 - 💬 &nbsp; Quid Pro Quo
 
