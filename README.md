@@ -1,15 +1,8 @@
 # Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"> I'm Rubén
 
-<p>
-  <img src="https://gpvc.arturio.dev/rubenprodev" alt="profile views">  
-  <a href="https://stackshare.io/rubenprodev/my-stack" target="_blank">
-    <img src="https://img.shields.io/badge/Tech-stack-blue" />
-  </a>
-  <a href="https://www.codewars.com/users/rubenprodev" target="_blank" style="display: inline-block">
-    <img src="https://www.codewars.com/users/rubenprodev/badges/small" />
-  </a>
-  <!--![](https://img.shields.io/badge/Exp-7yrs-red)-->
-</p>
+<img src="https://gpvc.arturio.dev/rubenprodev" alt="profile views"> [![StackShare](https://img.shields.io/badge/Tech-stack-blue)](https://stackshare.io/rubenprodev/my-stack)  [![CodeWars](https://www.codewars.com/users/rubenprodev/badges/small)](https://www.codewars.com/users/rubenprodev)
+
+<!--![](https://img.shields.io/badge/Exp-7yrs-red)-->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
