@@ -18,23 +18,23 @@
 
 - 🍺 &nbsp; Beer and 🍫 chocolate are two of my favourite flavours. I guess I should have born in Belgium 🤔  
 
-- 📚 &nbsp; Next tech to learn: Typescript, NextJS, GraphQL, Apollo, Firebase, Github Actions
+- 📚 &nbsp; Next tech to learn: GraphQL, Apollo, Github Actions
 
-- 💬 &nbsp; Quid Pro Quo
+- 💬 &nbsp; Do ut des
 
 <h3>🛠 Current Tech Stack</h3>
 
-- 💻 &nbsp; PHP
+- 💻 &nbsp; React | NextJS | Typescript | Sass + TailwindCSS | Jest + React Testing Library
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Sass | React | Redux
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript
 
-- 💅 &nbsp; Eslint | Lodash | Semantic UI | Material UI
+- 💅 &nbsp; Eslint | Lodash | Material UI
 
 - 💾 &nbsp; PostgreSQL
 
-- 🔧 &nbsp; PhpStorm | DataGrip | Git | Insomnia
+- 🔧 &nbsp; VSCode | Git | Insomnia
 
-- ⚙️ &nbsp; Symfony | Webpack | Gitlab | Jira | Confluence | Jenkins
+- ⚙️ &nbsp; Vercel | Jira | Confluence
 
 <!--
 ### 🤝🏻 Connect with me
